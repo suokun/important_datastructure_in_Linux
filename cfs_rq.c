@@ -1,4 +1,4 @@
-# /kernel/sched/sched.h
+// /kernel/sched/sched.h
 
 
 /* CFS-related fields in a runqueue */
